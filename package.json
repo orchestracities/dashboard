@@ -10,8 +10,5 @@
   "devDependencies": {
     "@cubejs-backend/postgres-driver": "^0.23.11",
     "@cubejs-backend/server": "^0.23.12"
-  },
-  "dependencies": {
-    "typeface-roboto": "^1.1.13"
   }
 }
